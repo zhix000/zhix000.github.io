@@ -25,10 +25,10 @@ favicon                  : "images/favicon-32x32.png"  # 添加网站图标路�
 
 # Site Author
 author:
-  name             : "Yunlong Lin"
-  avatar           : "images/photo1.jpg"
-  bio              : "Xiamen University"
-  location         : "Xiamen, China"
+  name             : "Zhicheng Liao"
+  avatar           : "images/photo1.png"
+  bio              : "South China Normal University | Computer Science | AI Enthusiast"
+  location         : "Guangzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=5F3tICwAAAAJ&hl=zh-CN"
@@ -41,7 +41,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "LYL1015"
+  github           : "zhix000"
   google_plus      :
   keybase          :
   instagram        :
